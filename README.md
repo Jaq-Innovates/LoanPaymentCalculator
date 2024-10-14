@@ -12,4 +12,4 @@ Total amount to be paid over the loan's lifetime
 Total interest paid
 This program is ideal for quick loan calculations and can be extended for various use cases in personal finance or as a learning tool for understanding loan amortization.
 
-This description provides a clear purpose of the program and highlights its features and functionality.
+
